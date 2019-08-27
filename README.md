@@ -1,4 +1,5 @@
 # Devops-aula04<br>
-Anabelle
-The Conjuring
-The fault in our Stars.
+Anabelle<br>
+The Conjuring<br>
+The fault in our Stars.<br>
+Devil Wears Prada
